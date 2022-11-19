@@ -23,7 +23,7 @@ yarn dev
 
 ## :book: Informações do projeto
 
-- Projeto desenvolvido durante o evento semana Spring React
+- Projeto desenvolvido durante o evento semana Spring React.
 
 - Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data.
 
