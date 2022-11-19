@@ -1,35 +1,33 @@
 # DsMeta
 
-![dsmeta](https://user-images.githubusercontent.com/91050670/202866647-e2301dd0-3d30-4c46-98f6-4ef53511cedf.png)
+![dsmeta](https://user-images.githubusercontent.com/91050670/202867348-aa2c3ebd-6d65-4cca-8be4-7f8a53107135.png)
 
+## :rocket: Rodar Projeto
+
+```bash
+yarn install
+
+yarn dev
+```
 
 ## :wrench: Tecnologias
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+- Vite
+- ReactJs
+- Typescript
+- CSS
+- Java
+- Spring 
+- Axios
+- API REST
+- H2 Database
 
 ## :book: Informações do projeto
-- DsMeta
 
 - Projeto desenvolvido durante o evento semana Spring React
 
-- React com typescript
+- Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data.
 
-- Utilização do axios 
-
-- CSS propriedade de estilização
-
-- CSS Grid e Flexbox
-
-- Media queries e responsividade
-
-- Uso do framework Spring para backend 
-
-- Utilização da Twilio Api
+- Utilização da Twilio Api para envio de sms.
 
 ## :bulb: Author: Lipeh Fama
    My links:
